@@ -95,6 +95,21 @@ header{
     margin-bottom: 30px;
 }
 /************SERVICE*************/
+.sr-title{
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.1;
+}
+.sr-section .fa{
+    color:#f05f40;
+}
+.sr-chapter{
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+.sr-text{
+    color: #777777;
+}
 
 
 
