@@ -51,7 +51,7 @@ header{
 }
 .buttons:hover{
     color: #ffffff;
-    background-color: #222222;
+    background-color: #777777;
     text-decoration: none;
 }
 .hd-btn{
@@ -110,13 +110,23 @@ header{
 .sr-text{
     color: #777777;
 }
-
-
-
-
 /************PHOTO***************/
-
-
+.grey-bg{
+    background-color: #222222;
+    padding: 50px 0;
+    color: #ffffff;
+}
+.ph-title{
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-bottom: 30px;
+}
+.ph-section{
+    padding-left: 0;
+    padding-right: 0;
+}
 
 /************CONTACT*************/
 
