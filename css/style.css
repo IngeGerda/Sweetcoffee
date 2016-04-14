@@ -127,8 +127,14 @@ header{
     padding-left: 0;
     padding-right: 0;
 }
-
 /************CONTACT*************/
+.phone,
+.email{
+    margin-top: 30px;
+}
+.email a{
+    color: #f05f40;
+}
 
 
 
