@@ -164,5 +164,58 @@ header{
     color: #f05f40;
 }
 /******RESPONSIVE DESIGN********/
+@media (max-width:768px){
+    body{
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .hd-designation{
+        font-size: 48px;
+    }
+    .red-line{
+        left:44%;
+    }
+    .white-line{
+        left:44%;
+    }
+    .hd-text{
+        font-size: 16px;
+    }
+    .logo{
+        margin-left: 20px;
+    }
+    .navbar-toggle{
+        margin-right: 30px;
+        margin-bottom: 15px;
+    }
+    .ph-section{
+        width: 100%;
+    }
+    .sr-chapter{
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .sr-section{
+        margin-bottom: 40px;
+    }
+    .ab-title,
+    .ph-title,
+    .sr-title{
+        font-size: 22px;
+    }
+}
+@media (max-width:480px){
+    .hd-designation{
+        font-size: 36px;
+    }
+}
+@media (max-width:360px) {
+    .red-line {
+        left: 41%;
+    }
 
+    .white-line {
+        left: 41%;
+    }
+}
 
