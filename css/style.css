@@ -38,6 +38,34 @@ header{
     font-weight: 300;
     margin-bottom: 50px;
 }
+/******TOP-FIXED NAVIGATION********/
+.logo{
+    font-family: 'Pacifico', cursive;
+    font-size: 22px;
+    margin-top: 8px;
+}
+.logo a{
+    color: rgba(255, 255, 255, 0.7);
+}
+.logo a:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 0.3);
+}
+.navbar-default .nav > li > a{
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    color: rgba(255, 255, 255, 0.7);
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 800;
+}
+.navbar-default .nav > li > a:focus,
+.navbar-default .nav > li > a:hover{
+    color: #ffffff;
+}
 /************BUTTONS***************/
 .buttons{
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
